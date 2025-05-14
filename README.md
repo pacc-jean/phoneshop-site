@@ -105,8 +105,13 @@ Design built in Figma — see /figma folder or request access to the working fil
 ---
 
 ## 👑 Creator
-[![Luca](https://github.com/pacc-jean.png?size=40)](https://github.com/pacc-jean)
-[**Luca**](https://github.com/pacc-jean) – Software developer with big dreams and clean code.
+
+<a href="https://github.com/pacc-jean">
+  <img src="https://github.com/pacc-jean.png" width="40" style="border-radius: 50%;" alt="jean luc"/>
+</a>  
+
+[![jean luc](https://github.com/pacc-jean.png?size=40)](https://github.com/pacc-jean)
+[**jean luc**](https://github.com/pacc-jean) – Software developer with big dreams and clean code.
 
 ---
 
