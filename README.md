@@ -105,7 +105,7 @@ Design built in Figma — see /figma folder or request access to the working fil
 ---
 
 ## 👑 Creator
-[https://github.com/pacc-jean](Luca) – Software developer with big dreams and clean code.
+[**Luca**](https://github.com/pacc-jean) – Software developer with big dreams and clean code.
 
 ---
 
