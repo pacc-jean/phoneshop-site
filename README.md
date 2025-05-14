@@ -18,6 +18,7 @@ An elegant and responsive e-commerce platform for selling phones, accessories, h
 
 ### 🛍️ Shopping Experience
 - Product browsing by category (Phones, Accessories, Tablets, etc.)
+- Product search
 - Filters: Brand, Price, Color, Keywords
 - Sorting: New, Lowest Price, Highest Price, Recommended
 - Product detail pages with image, description, and variations
