@@ -5,9 +5,9 @@ import { Home, ShoppingCart, ShoppingBag, LogIn, UserPlus, Moon, Sun, X } from '
 import { motion, AnimatePresence } from 'framer-motion';
 
 const navLinks = [
-  { label: 'Home', icon: <Home size={16} /> },
-  { label: 'Shop', icon: <ShoppingBag size={16} /> },
-  { label: 'Cart', icon: <ShoppingCart size={16} /> },
+  { label: 'Home', icon: <Home size={14} /> },
+  { label: 'Shop', icon: <ShoppingBag size={14} /> },
+  { label: 'Cart', icon: <ShoppingCart size={14} /> },
 ];
 
 export default function Navbar() {
